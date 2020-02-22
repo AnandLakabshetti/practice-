@@ -1,0 +1,3 @@
+already u have an repository in remote and ur cloning directly then commiting .
+
+now in NewGit
